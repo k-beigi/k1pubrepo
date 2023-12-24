@@ -39,7 +39,7 @@
   <h3 align="center">K1-Pub-Repo-README</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A README file to jumpstart new K1 projects!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
