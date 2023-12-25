@@ -37,9 +37,11 @@
   </a>
 
   <h3 align="center">K1-Pub-Repo-README</h3>
+  
 :smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile:
+
   <p align="center">
-    A README file to jumpstart new K1 projects!
+    This is a README file for one of K1 projects!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
