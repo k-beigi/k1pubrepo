@@ -41,7 +41,7 @@
 :smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile:
 
   <p align="center">
-    This is a README file for one of K1 projects!
+    This is a README file for the K1 projects No. 3.!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -85,7 +85,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The K1 Project-1
+## About The K1 Project-3
 
 [![pr-s-sh][product-screenshot]](https://sreeninet.files.wordpress.com/2014/08/sdnapps2.png)
 
