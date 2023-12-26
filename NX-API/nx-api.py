@@ -7,7 +7,8 @@ class nxapi_json:
     def __init__(self):
         self.switchuser= input("Enter Username: ")
         self.switchpassword= input("Enter Password: ")
-        self.url='https://172.30.8.123/ins'
+        self.ip = input("Enter IP of NX Device: ")
+        self.url='https://{}/ins'.format(self.ip)
         self.myheaders={'content-type':'application/json'}
         self.payload={
           "ins_api": {
